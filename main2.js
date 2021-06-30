@@ -32,7 +32,7 @@ function setup(){
           });
     } 
     if(deviceType == 'mobile'){
-        createCapture({
+        video = createCapture({
             audio: false,
             video: {
               facingMode: {
