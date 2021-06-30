@@ -1,0 +1,36 @@
+
+.firstHeading{
+    width: 100%;
+    height: 30%;
+    margin-top: 0px;
+    font-size: x-large;
+}
+.options{
+    font-size: 18px;
+}
+.secondHeading{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    border: 5px 5px 5px grey;
+}
+.btnShow{
+    border: 5px 5px 5px grey;
+    font-size: 17px;
+}
+canvas{
+    border-radius: 15px;
+    border: 5px solid lime;
+}
+.footer{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    padding: 5px;
+    font-family: cursive;
+    font-size: larger;
+}
